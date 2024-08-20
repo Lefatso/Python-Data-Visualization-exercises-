@@ -1,0 +1,41 @@
+Data Exploration and Analysis
+
+1.Load the data: Import the CSV data into a Pandas DataFrame.
+2.Data overview: Display the first 5 and last 5 rows of the DataFrame.
+3.Data types: Check the data types of each column.
+4.Summary statistics: Calculate summary statistics for numerical columns (mean, median, std, min, max).
+5.Missing values: Identify columns with missing values and count the missing values.
+6.Unique values: Find the unique values in columns like 'Department', 'Job Title', and 'Country'.
+7.Value counts: Determine the frequency of different values in columns like 'Gender', 'Ethnicity', and 'Business Unit'.
+
+Data Filtering and Selection
+8.Filter by department: Select employees from the 'IT' department.
+9.Filter by salary range: Find employees with salaries between $100,000 and $150,000.
+10.Filter by hire date: Select employees hired after 2015.
+11.Filter by multiple conditions: Find female employees in the 'Sales' department with a bonus greater than 10%.
+12.Select specific columns: Create a new DataFrame with columns 'Full Name', 'Job Title', 'Department', and 'Annual Salary'.
+
+Data Manipulation
+
+13.Create a new column: Calculate the employee's tenure in years.
+14.Group by department: Calculate the average salary for each department.
+15.Group by job title: Find the minimum and maximum salary for each job title.
+16.Pivot table: Create a pivot table to analyze average salary by department and gender.
+17.Sort DataFrame: Sort employees by salary in descending order.
+18.Rank employees: Rank employees based on their annual salary.
+
+Data Visualization
+19.Histogram: Create a histogram of employee ages.
+20.Bar chart: Visualize the number of employees per department.
+21.Scatter plot: Plot annual salary against age.
+22.Box plot: Analyze the distribution of salaries by gender.
+23.Count plot: Visualize the distribution of job titles.
+
+More Complex Analysis
+24.Correlation analysis: Calculate the correlation between age and salary.
+25.Employee turnover: Calculate employee turnover rate.
+26.Salary distribution by country: Analyze salary distribution across different countries.
+27.Gender pay gap: Compare average salaries between male and female employees.
+28.Employee tenure analysis: Explore the relationship between tenure and job title.
+29.Department performance: Compare the average salary and bonus by department.
+30.Predictive modeling: Build a simple model to predict employee salary based on features like experience, job title, and department.
